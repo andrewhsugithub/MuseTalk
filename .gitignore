@@ -9,3 +9,5 @@ results/
 data/audio/*.wav
 data/video/*.mp4
 .env
+node_modules/
+lib/db/drizzle
